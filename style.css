@@ -1,0 +1,15 @@
+#box{
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.colorDiv{
+    background-color : pink;
+    margin-top: 20px;
+    height: 50px;
+    width : 50px;
+    position: relative;
+}
